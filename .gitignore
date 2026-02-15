@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Variables de entorno (contiene API keys)
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Resultados de evaluación (se regeneran)
+rag_results_*.json
+
+# macOS
+.DS_Store
